@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797530120065",
+    "project_id": "referme-970af",
+    "storage_bucket": "referme-970af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797530120065:android:bd06b919565c55a8491280",
+        "android_client_info": {
+          "package_name": "com.example.refer_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797530120065-06hcf3s14gchr3qm57gt3hv53fr4ttk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLx-IlSs_9JNsjNoNkVoWVBROQpUBwq3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797530120065-06hcf3s14gchr3qm57gt3hv53fr4ttk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

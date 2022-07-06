@@ -1,16 +1,21 @@
-# refer_me
+# Group Chatting Application
 
-A new Flutter project.
+This is a group chatting application developed using Flutter and Firebase firestore. User Authentication is handled by Firebase Auth. User can create new groups, search for existing groups and chat within the groups.
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+- The life of a college student is always difficult, regardless of whether they are in a traditional college or take classes online. A student's success cannot be measured by how hard they work, but rather by how smart they work, and to do that they need to have access to the right resources.
+- With the advancement of digital technology, more and more applications are being developed to make studying easier and more enjoyable.
+- Keeping this as the main purpose of our project, we will be designing an application software similar to a communication platform, open for all the students where they can join groups and clear their doubts.
 
-A few resources to get you started if this is your first Flutter project:
+## References
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Flutter Documentation-https://docs.flutter.dev/
+- Cloud firestore data adding and retrieving- https://medium.com/codingurukul/firebase-for-web-cloud-firestore-b294ed33320b
+- Chat application research paper- https://www.researchgate.net/publication/328449193_Flutter_chat_app
+- Firebase Auth for authorizing the user- https://firebase.google.com/products/auth?gclid=Cj0KCQjwz7uRBhDRARIsAFqjullNpekRgp4-1XGuJaeLhdJxz1-yQwUZqvHVJTmAcsXnp6RDbZltP60aAqA5EALw_wcB&gclsrc=aw.ds
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Documentations
+
+- PPT Link https://docs.google.com/presentation/d/1-sxT0aQawU-NaikaPbWomK_Jc26l4oWsJJ_bdapRKFk/edit#slide=id.g1225d17d6c3_0_10
+- SRS Link https://docs.google.com/document/d/1E64aWSDrVepv7NRyR3u0ShR9rVBAjw7P3VEIAGnvlwQ/edit
